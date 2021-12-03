@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "이재원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "만들고 공부하고 기록하는 블로그입니다 <br> 질문, 조언, 격려등을 댓글로 남겨주시면 감사히 받겠습니다!"
+  bio              : "만들고 공부하고 기록하는 블로그<br> 질문, 조언, 의견등을 댓글로 남겨주세요 <br>감사히 참고하여 다음 게시물에 반영하겠습니다"
   location         : "Republic of Korea"
   email            : "dlwodnjs1119@naver.com"
   links:
