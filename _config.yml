@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "이재원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/image/profile/2021-12-11.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "만들고 공부하고 기록하는 블로그<br>질문,조언,의견을 댓글로 남겨주세요 <br>참고하여 다음 게시물에 반영하겠습니다"
   location         : "Republic of Korea"
   email            : "dlwodnjs1119@naver.com"
