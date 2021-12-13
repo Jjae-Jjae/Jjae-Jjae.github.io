@@ -185,3 +185,16 @@ textarea {
   overflow: auto; /* remove vertical scrollbar in IE6-9*/
   vertical-align: top; /* readability and alignment cross-browser*/
 }
+
+/* img, a(url) 태그 캡션 추가 */
+img + em {
+  text-align: center;
+  font-size: 1rem;
+  color: $primary-color;
+}
+
+a + em {
+  text-align: center;
+  font-size: 1rem;
+  color: $primary-color;
+}
