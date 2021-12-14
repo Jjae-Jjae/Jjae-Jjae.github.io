@@ -36,3 +36,22 @@ meta_keywords: # jvm,JVM,java virtual machine, jvm 메모리 구조
 
 위험 Notice 입니다.
 {: .notice--danger}를 추가해주세요.
+
+
+-----------------------------------------------------
+* 이미지 추가 방법들 
+<img src="/image/post/git/2021/2021-12-12-git-사용법/Git_FlowChart_Full.png">
+
+![Git FlowChart_V-Full](/image/post/git/2021/2021-12-12-git-사용법/Git_FlowChart_head.png)
+{: .align-center}
+
+---------------------------------------------------------
+펼처보기 만드는법
+<details>
+  <summary>이미지 확인</summary>
+  <div markdown= 1>
+
+  내용입력
+
+  </div>
+</details>
