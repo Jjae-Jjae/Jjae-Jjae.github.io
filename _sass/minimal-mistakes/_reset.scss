@@ -198,3 +198,14 @@ a + em {
   font-size: 1rem;
   color: $light-gray;
 }
+
+/*이미지 링크 박스*/
+.ImgUrlBox {
+  text-align:center; 
+  border:3px solid #bbbbbb; 
+  padding: 10px; 
+  width:30%; 
+  float:left; 
+  margin-right:10px;
+  vertical-align: middle
+}
