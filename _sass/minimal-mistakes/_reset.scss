@@ -76,6 +76,7 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
+  font-weight: bold;
 }
 
 /* Apply focus state */
@@ -214,4 +215,10 @@ a + em {
 .ContentBox{
   border:1px dashed #bbbbbb;
   padding:2em
+}
+
+/*펼처보기 마우스 커서 변환*/
+details>summary:hover {
+  cursor: pointer;
+  color : skyblue;
 }
