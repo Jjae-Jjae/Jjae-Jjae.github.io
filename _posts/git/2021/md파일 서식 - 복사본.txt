@@ -1,0 +1,63 @@
+---
+title: # "제목" // 포스트나 페이지의 제목을 넣는다.
+layout: # single로 지정해서 사용
+date: # 생성일, (양식) 년-월-일T시:분:초-GMT
+last_modified_at: # 최종 변경일, (양식) 년-월-일T시:분:초-GMT
+categories: # 어느 페이지에 속하는지를 표시한다.
+tags: # [0,0,0] // 태그를 지정할 수 있다.
+share: # true //theme 의 사이드바에 공유 버튼이 추가된다.
+comments: # true // 블로그 포스트에 개별적으로 disqus 댓글 버튼을 추가해줄 수 있다.
+
+author_profile: true # 좌측 글쓴이 프로필 표시 유무
+related: true # 유사 콘텐츠 표시
+
+# 목차 관련 설정
+toc: true
+toc_sticky: true
+toc_label: 목차
+
+# 구글 관련 설정
+description: # 구글 등 포털에 게시물등에대한 소개내용
+meta_keywords: # jvm,JVM,java virtual machine, jvm 메모리 구조
+---
+
+# 노티스 추가 방법
+주요 Notice 입니다.
+{: .notice--primary}를 추가해주세요.
+
+정보 Notice 입니다.
+{: .notice--info}를 추가해주세요.
+
+경고 Notice 입니다.
+{: .notice--warning}를 추가해주세요.
+
+성공 Notice 입니다.
+{: .notice-success}를 추가해주세요.
+
+위험 Notice 입니다.
+{: .notice--danger}를 추가해주세요.
+
+
+-----------------------------------------------------
+* 이미지 추가 방법들 
+<img src="/image/post/git/2021/2021-12-12-git-사용법/Git_FlowChart_Full.png">
+
+![Git FlowChart_V-Full](/image/post/git/2021/2021-12-12-git-사용법/Git_FlowChart_head.png)
+{: .align-center}
+
+---------------------------------------------------------
+펼처보기 만드는법
+<details>
+  <summary>이미지 확인</summary>
+  <div markdown= 1>
+
+  내용입력
+
+  </div>
+</details>
+
+
+
+-------------------------------------------------
+공백 여러번 
+2바이트(전각) 공백 : (　） 괄호 안을 마우스로 드래그로 복사해서 사용하세요.
