@@ -217,7 +217,14 @@ a + em {
   padding:2em
 }
 
-/*펼처보기 마우스 커서 변환*/
+/*펼처보기*/
+
+details {
+  border:1px dashed black;
+   margin: 5px 0px 5px 0px;
+    padding: 10px 10px 10px 10px
+}
+
 details > summary:hover {
   cursor: pointer;
   color : skyblue;
