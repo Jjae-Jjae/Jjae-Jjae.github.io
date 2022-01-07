@@ -200,21 +200,17 @@ a + em {
   color: $light-gray;
 }
 
-/*이미지 링크 박스*/
-.ImgUrlBox {
+/*이미지 박스*/
+.ImgBox {
   text-align:center; 
   border:3px solid #bbbbbb; 
   padding: 10px; 
-  width:30%; 
-  float:left; 
-  margin-right:10px;
-  vertical-align: middle
+  margin-right: 5%;
 }
-
 /*div 박스*/
 .ContentBox{
   border:1px dashed #bbbbbb;
-  padding:2em
+  padding:2em;
 }
 
 /*펼처보기*/
