@@ -20,7 +20,7 @@ toc_label: 목차
 
 # 구글 관련 설정
 description: android Studio 설치하기
-meta_keywords: androidStudio, androidStudio 설치, 안드로이드 스튜디오 설치, 안드로이드 스튜디오,
+meta_keywords: androidStudio, androidStudio 설치, 안드로이드 스튜디오 설치, 안드로이드 스튜디오
 ---
 안드로이 스튜다오를 설치하는 법을 기술합니다.  
 차분히 따라하면 누구나 설치가능하도록 작성합니다.  
@@ -58,6 +58,19 @@ meta_keywords: androidStudio, androidStudio 설치, 안드로이드 스튜디오
 </table>
 
 # Android Studio 설치하기
+<div markdown="1" class="ContentBox">
+
+<h3> 만약 특정 JDK 버전을 사용해야 할경우 </h3>
+
+안드로이드 스튜디오에선 ADK(Android Develop Kit)을 통하여 Open JDK를 제공해준다.  
+따라서 별도의 JDK를 설치할 필요는 없지만 만약 **특정버전의 JDK**를 사용해야한다면
+아래 링크를 따라 들어가 설치하고 오자.
+
+[JDK 설치하기](https://jjae-jjae.github.io//java/1-JDK-설치하기/)
+<!-- [JDK 설치하기](http://localhost:4000/java/1-JDK-설치하기/) -->
+
+</div>
+
 
 [안드로이드 스튜디오 설치](https://developer.android.com/studio/install?hl=ko)  
 해당 링크로 들어가면 안드로이드 스튜디오에서 제공하는 설치 설명을 볼수 있다.  
@@ -155,7 +168,7 @@ ok 버튼을 누르고 나면 이쁜 여우가 나올것이다.
 * <h5>설치중 환경 설정하기.</h5>
   
 기본적으로  Standard를 선택해주면 된다.  
-하지만 만약 JDK위치를 설정해주거나 사용하지 않을 컴퍼넌트들을 설정할 정도의 고수라면  
+하지만 만약 JDK위치를 설정해주어야 하거나, 사용하지 않을 컴퍼넌트들을 설정할 정도의 고수라면  
 Custom을 선택하면 된다! (물론 그런고수면 이글을 안보겠지만 말이다...)  
 
 
@@ -186,3 +199,4 @@ Custom을 선택하면 된다! (물론 그런고수면 이글을 안보겠지만
 ![android Down](/image/post/android/2022/android_22.png){: .align-center width="70%" height="50%"}
 
 * <h5>IDE 환경 설정하기.</h5>
+
