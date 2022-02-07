@@ -74,7 +74,7 @@ Android Studio를 통하여 Project를 진행하였다.
       <td>
   <div markdown="1" class="ImgBox">
   <br>
-  ![다마고치 사진](/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/다마고치.jpg)
+  ![다마고치 사진](/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/다마고치.png)
   *다마고치 사진*
   </div>
       </td>
