@@ -1,5 +1,5 @@
 ---
-title: 1] androidStudio 설치하기
+title: Android-1) AndroidStudio 설치하기
 layout: single
 author_profile: true
 read_time: true
@@ -9,7 +9,6 @@ related: true
 popular: true
 categories: android
 tags: [android,androidStudio]
-
 date: 2022-1-20T13:30:00-09:00 
 last_modified_at: 2022-1-20T13:30:00-09:00 
 
@@ -326,4 +325,4 @@ SDK Manager에 들어갈때와 마찬가지로 More Action을 눌러 AVD Manager
       </td>
     </tr>
   </tbody>
-</table>
+</table>  
