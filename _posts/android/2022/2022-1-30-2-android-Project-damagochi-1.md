@@ -1,5 +1,5 @@
 ---
-title: Android-2-1) Project_Android-다마고치(1)
+title: Android-2-1) Project_Android-다마고치
 layout: single
 author_profile: true
 read_time: true
@@ -93,10 +93,8 @@ Android Studio를 통하여 Project를 진행하였다.
 
 ## 2. 프로그램 구조
 
-### ● Algorithm & 자료구조
-
-
 ### ● 기능 목록 
+
 <table style="display: table;">
   <colgroup>
     <col style="width:50%;">
@@ -120,6 +118,93 @@ Android Studio를 통하여 Project를 진행하였다.
   </tbody>
 </table>  
 
+
+### ● Algorithm & Save Data(DB Table 구성)  
+
+<table style="border-style:hidden; display: table;">
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <td style="padding:1em 1em 1em 1em; text-align:center; text-size:2em">
+        <strong>Flow Chart</strong>
+      </td>
+      <td style="padding:1em 1em 1em 1em; text-align:center; text-size:2em">
+        <strong>DB Table</strong>
+      </td>
+    </tr>
+  </thead>  
+  <tbody>
+    <tr>
+      <td style="padding:1em 1em 1em 1em; text-align:center">
+        <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png" >
+      </td>
+      <td style="padding:1em 1em 1em 1em; text-align:center">
+        <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" >
+      </td>
+    </tr>
+  </tbody>
+</table>  
+
+<details>
+  <summary>Algorithm Flow Chart 크게 보기</summary>
+    <div>
+      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png" style="width:100%">
+  </div>
+</details>
+
+<details>
+  <summary>Save Data(DB Table 구성) 크게 보기</summary>
+    <div>
+      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" style="width:100%">
+  </div>
+</details>
+
+### ● 페이지 구성
+<div markdown="1" class="ImgBox">
+  <br>
+  ![Page Structure](/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Page_Structure.png)
+  *Page Structure*
+  </div>
+  
+<details>
+  <summary>Start Page 구성 크게 보기</summary>
+    <div>
+      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Start_Page.png" style="width:100%">
+  </div>
+</details>
+
+
+<details>
+  <summary>Choice_Page 구성 크게 보기</summary>
+    <div>
+      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Choice_Page.png" style="width:100%">
+  </div>
+</details>
+
+<details>
+  <summary>Choice_Dialog 구성 크게 보기</summary>
+    <div>
+      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Choice_Dialog.png" style="width:100%">
+  </div>
+</details>
+
+
+<details>
+  <summary>Hatchery_Page 구성 크게 보기</summary>
+    <div>
+      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Hatchery_Page.png" style="width:100%">
+  </div>
+</details>
+
+<details>
+  <summary>Game_Main_Page 구성 크게 보기</summary>
+    <div>
+      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Game_Main_Page.png" style="width:100%">
+  </div>
+</details>
 
 ## 코드 설명
 

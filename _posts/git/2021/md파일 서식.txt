@@ -61,3 +61,24 @@ meta_keywords: # jvm,JVM,java virtual machine, jvm 메모리 구조
 -------------------------------------------------
 공백 여러번 
 2바이트(전각) 공백 : (　） 괄호 안을 마우스로 드래그로 복사해서 사용하세요.
+
+<details>
+  <summary>Algorithm Flow Chart 크게 보기</summary>
+    <div>
+      <img src="i/mage/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png">
+      </td>
+    </tr>
+  <tr>
+  </div>
+</details>
+
+
+<details>
+  <summary>Algorithm Flow Chart 크게 보기</summary>
+    <div>
+  <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" >
+  </td>
+  </tr>
+  <tr>
+  </div>
+</details>
