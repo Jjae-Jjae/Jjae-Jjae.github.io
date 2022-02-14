@@ -142,7 +142,7 @@ Android Studio를 통하여 Project를 진행하였다.
         <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png" >
       </td>
       <td style="padding:1em 1em 1em 1em; text-align:center">
-        <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" >
+        <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Table.png" >
       </td>
     </tr>
   </tbody>
@@ -158,7 +158,7 @@ Android Studio를 통하여 Project를 진행하였다.
 <details>
   <summary>Save Data(DB Table 구성) 크게 보기</summary>
     <div>
-      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Table.png" style="width:100%">
   </div>
 </details>
 
@@ -210,6 +210,34 @@ Android Studio를 통하여 Project를 진행하였다.
 
 ### ● Start Page 기능 설명
 
+<table style="display: table;">
+  <colgroup>
+    <col style="width:40%;">
+    <col style="width:60%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="text-align:center; font-size: 1.2em;">
+        <div class="ImgBox"> 
+          <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_StartPage.svg" style="width:100%">
+        </div>
+      </td>
+      <td style="padding-right:5px ; font-size: 1.2em;">
+        상단은 게임의 <strong>화면부</strong>, 하단은 게임의 <strong>조작부</strong>이다.<br>
+        게임에 전채적으로 역동적인 느낌을 주기 위하여<br>
+        캐릭터와 배경에 google에서 개발한 Glide 라이브러리를 통하여<br> 
+        GIF파일로 움직이는 이미지를 삽입해주었다.<br>
+
+        <h4>* 조작부 버튼별 역할</h4>
+        -<strong>새로 시작하기</strong> : Go To Choice Page<br>
+        -<strong>게임 이어하기</strong> : Game Main Page (With Save Data)<br>
+        -<strong>게임 종료 하기</strong> : Close This App<br>       
+      </td>
+    </tr>
+  </tbody>
+</table>  
+
+### ● Choice Page 기능 설명
 
 <table style="display: table;">
   <colgroup>
@@ -220,19 +248,31 @@ Android Studio를 통하여 Project를 진행하였다.
     <tr>
       <td style="text-align:center; font-size: 1.2em;">
         <div class="ImgBox"> 
-          <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_StartPage.png" style="width:100%">
+          <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_ChoicePage.svg" style="width:100%">
         </div>
       </td>
       <td style="padding-right:5px ; font-size: 1.2em;">
-        상단은 게임의 <strong>화면부</strong>, 하단은 게임의 <strong>조작부</strong>이다.<br>
-        게임에 전채적으로 역동적인 느낌을 주기 위하여<br>
-        캐릭터와 배경에 google에서 개발한 Glide 라이브러리를 통하여<br> 
-        GIF파일로 움직이는 이미지를 삽입해주었다.<br>
+        Choice Page는 <strong>뽑기 창</strong>과 <strong>이동 버튼</strong> 으로 구성 되어있다.<br>
+        원하는 위치의 알을 선택시 Flip 애니 매이션과 함께<br>
+        선택한 알의 모습을 Dialog로 띄워준다.<br><br>
+        
+        <strong>이동 버튼</strong> 같은 경우에는 알을 선택 후 활성화 되며<br>
+        해당 버튼을 터치시 알을 부화시키는 Hatchery Page로 이동된다.<br>
 
-        <h4>* 조작부 버튼별 역할</h4>
-        -<strong>새로 시작하기</strong> : Choice Page<br>
-        -<strong>게임 이어하기</strong> : Game Main Page (With Save Data)<br>
-        -<strong>게임 종료 하기</strong> : Close This App<br>       
+
+        <h4>* 화면별 역할</h4>
+        -<strong>빨간 영역</strong> : Egg Choice Area<br>
+        -<strong>버튼 영역</strong> : Go To Hatchery Page (After Select Egg)<br>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <details style="text-align: center;">
+          <summary>ChoiceDialog 보기</summary>
+          <div class="ImgBox" style="display: inline-block; margin-right: 0%;">
+            <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_ChoiceDialog.gif" style="width:80%">
+          </div>
+        </details>
       </td>
     </tr>
   </tbody>
@@ -240,11 +280,9 @@ Android Studio를 통하여 Project를 진행하였다.
 
 
 
-### ●  Page 기능 설명
+### ● Hatchery Page 기능 설명
 
-### ●  Page 기능 설명
-
-### ●  Page 기능 설명
+### ● Game Main Page 기능 설명
 
 
 ## 동작 시연
