@@ -37,7 +37,7 @@ meta_keywords: android
       <td>
   <div markdown="1" class="ImgBox">
   <br>
-  ![Android Icon](/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Android_Logo.jpg)
+  ![Android Icon](/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Android_Logo.jpg)
   *Android 로고*
   </div>
       </td>
@@ -74,7 +74,7 @@ Android Studio를 통하여 Project를 진행하였다.
       <td>
   <div markdown="1" class="ImgBox">
   <br>
-  ![다마고치 사진](https://github.com/Jjae-Jjae/Jjae-Jjae.github.io/blob/master/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/%EB%8B%A4%EB%A7%88%EA%B3%A0%EC%B9%98.png?raw=true)
+  ![다마고치 사진](/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/다마고치.png)
   *다마고치 사진*
   </div>
       </td>
@@ -103,16 +103,16 @@ Android Studio를 통하여 Project를 진행하였다.
   <tbody>
     <tr>
       <td style="text-align:center; font-size: 1.2em;">
-<h3 style="margin-top:0em;">구현</h3><hr>
-1. 랜덤 캐릭터 뽑기<br>
-2. 캐릭터 돌보기<br>
-3. 캐릭터 Save & Load<br> 
+        <h3 style="margin-top:0em;">구현</h3><hr>
+        1. 랜덤 캐릭터 뽑기<br>
+        2. 캐릭터 돌보기<br>
+        3. 캐릭터 Save & Load<br> 
       </td>
       <td style="text-align:center; font-size: 1.2em;">
-  <h3 style="margin-top:0em;">미 구현</h3><hr>
-1. 상태에 따른 진화체 변경<br>
-2. 상태에 따른 돌봄 요구<br>
-3. 상태에 따른 대화<br>
+        <h3 style="margin-top:0em;">미 구현</h3><hr>
+        1. 상태에 따른 진화체 변경<br>
+        2. 상태에 따른 돌봄 요구<br>
+        3. 상태에 따른 대화<br>
       </td>
     </tr>
   </tbody>
@@ -139,10 +139,10 @@ Android Studio를 통하여 Project를 진행하였다.
   <tbody>
     <tr>
       <td style="padding:1em 1em 1em 1em; text-align:center">
-        <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png" >
+        <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png" >
       </td>
       <td style="padding:1em 1em 1em 1em; text-align:center">
-        <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" >
+        <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" >
       </td>
     </tr>
   </tbody>
@@ -151,28 +151,28 @@ Android Studio를 통하여 Project를 진행하였다.
 <details>
   <summary>Algorithm Flow Chart 크게 보기</summary>
     <div>
-      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/flow_chart.png" style="width:100%">
   </div>
 </details>
 
 <details>
   <summary>Save Data(DB Table 구성) 크게 보기</summary>
     <div>
-      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Table.PNG" style="width:100%">
   </div>
 </details>
 
 ### ● 페이지 구성
 <div markdown="1" class="ImgBox">
   <br>
-  ![Page Structure](/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Page_Structure.png)
+  ![Page Structure](/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Page_Structure.png)
   *Page Structure*
   </div>
   
 <details>
   <summary>Start Page 구성 크게 보기</summary>
     <div>
-      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Start_Page.png" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Start_Page.png" style="width:100%">
   </div>
 </details>
 
@@ -180,14 +180,14 @@ Android Studio를 통하여 Project를 진행하였다.
 <details>
   <summary>Choice_Page 구성 크게 보기</summary>
     <div>
-      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Choice_Page.png" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Choice_Page.png" style="width:100%">
   </div>
 </details>
 
 <details>
   <summary>Choice_Dialog 구성 크게 보기</summary>
     <div>
-      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Choice_Dialog.png" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Choice_Dialog.png" style="width:100%">
   </div>
 </details>
 
@@ -195,17 +195,58 @@ Android Studio를 통하여 Project를 진행하였다.
 <details>
   <summary>Hatchery_Page 구성 크게 보기</summary>
     <div>
-      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Hatchery_Page.png" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Hatchery_Page.png" style="width:100%">
   </div>
 </details>
 
 <details>
   <summary>Game_Main_Page 구성 크게 보기</summary>
     <div>
-      <img src="/image/post/Android/2022/2022-1-30-2-android-Project-damagochi-1/Game_Main_Page.png" style="width:100%">
+      <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Game_Main_Page.png" style="width:100%">
   </div>
 </details>
 
-## 코드 설명
+## 3. 기능 설명
+
+### ● Start Page 기능 설명
+
+
+<table style="display: table;">
+  <colgroup>
+    <col style="width:40%;">
+    <col style="width:60%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="text-align:center; font-size: 1.2em;">
+        <div class="ImgBox"> 
+          <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_StartPage.png" style="width:100%">
+        </div>
+      </td>
+      <td style="padding-right:5px ; font-size: 1.2em;">
+        상단은 게임의 <strong>화면부</strong>, 하단은 게임의 <strong>조작부</strong>이다.<br>
+        게임에 전채적으로 역동적인 느낌을 주기 위하여<br>
+        캐릭터와 배경에 google에서 개발한 Glide 라이브러리를 통하여<br> 
+        GIF파일로 움직이는 이미지를 삽입해주었다.<br>
+
+        <h4>* 조작부 버튼별 역할</h4>
+        -<strong>새로 시작하기</strong> : Choice Page<br>
+        -<strong>게임 이어하기</strong> : Game Main Page (With Save Data)<br>
+        -<strong>게임 종료 하기</strong> : Close This App<br>       
+      </td>
+    </tr>
+  </tbody>
+</table>  
+
+
+
+### ●  Page 기능 설명
+
+### ●  Page 기능 설명
+
+### ●  Page 기능 설명
+
 
 ## 동작 시연
+
+
