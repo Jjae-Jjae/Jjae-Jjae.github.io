@@ -282,9 +282,103 @@ Android Studio를 통하여 Project를 진행하였다.
 
 ### ● Hatchery Page 기능 설명
 
+<table style="display: table;">
+  <colgroup>
+    <col style="width:40%;">
+    <col style="width:60%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="text-align:center; font-size: 1.2em;">
+        <div class="ImgBox"> 
+          <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_HatcheryPage.svg" style="width:100%">
+        </div>
+      </td>
+      <td style="padding-right:5px ; font-size: 1.2em;">
+        Hatchery 페이지는 선택한 알을 개봉하는 페이지로<br>
+        Start Page와 마찬가지로 <strong>화면부</strong>와 <strong>조작부</strong>로 나누어져있다.<br><br>
+
+        조작부에있는 [알 흔들기]버튼을 터치시 횟수가 카운트 되며<br>
+        카운트가 횟수에 도달하면 알이 깨지는 애니메이션과 함께<br>
+        베이비 몬스터가 부화하여 나온다.<br>
+
+        <h4>* 화면별 역할</h4>
+        -<strong>빨간 영역</strong> : Show Egg Status at Character Image<br>
+        -<strong>버튼 영역</strong> : Add to Counter Of Hatching (일정 카운트가 쌓이면 부화한다.)<br>
+        -<strong>파란 영역</strong> : Show Egg Status at Text<br>
+      </td>
+    </tr>
+  </tbody>
+</table>  
+
 ### ● Game Main Page 기능 설명
 
+<table style="display: table;">
+  <colgroup>
+    <col style="width:40%;">
+    <col style="width:60%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="text-align:center; font-size: 1.2em;">
+        <div class="ImgBox"> 
+          <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_GameMainDialog.png" style="width:100%">
+        </div>
+      </td>
+      <td style="padding-right:5px ; font-size: 1.2em;">
+        해당 페이지로 만약 Hatchery Page를 통하여 왔다면<br>
+        일단 캐릭터의 이름을 만들어주어야한다.<br>
+        오른쪽에 있는 이미지처럼 Dialog가 뜨며<br>
+        해당 Dialog에 원하는 이름을 입력해주면 된다.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-size: 1.2em;">
+        <div class="ImgBox"> 
+          <img src="/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Function_GameMainPage.svg" style="width:100%">
+        </div>
+      </td>
+      <td style="padding-right:5px ; font-size: 1.2em;">
+        Game Main Page는 게임을 플래이하는 메인 페이지 이다.<br>
+        게임의 주 목적인 캐릭터를 성장시키는 기능이 해당 페이지에 존재한다.<br>
+        또한 게임의 진행사항을 저장하는 저장 버튼 역시 해당페이지에 있다.<br><br>
+
+        Activate Buttton버튼을 누르면 캐릭터의 스테이터스가<br>
+        증가/하락 하고 경험치가 증가한다.<br>
+        이를통하여 캐릭터를 성장시키며 게임을 진행하게 된다.<br>
+
+        
+
+        <h4>* 화면별 역할</h4>
+        -<strong>파란 영역</strong> : 스테이터스를 보여주며 필요한 활동이 무엇인지 알려준다.<br>
+        -<strong>디스크 모양 버튼</strong> : 게임의 진행 상황을 기기의 DB에 객체화 하여 저장한다.<br>
+        -<strong>빨간 영역</strong> : 캐릭터의 성장 상태를 Image를 통하여 보여준다.<br>
+        -<strong>버튼 영역</strong> : Activate Buttton(해당 버튼들을 이용하여 게임을 진행한다.)<br>
+      </td>
+    </tr>
+  </tbody>
+</table>  
 
 ## 동작 시연
+
+### ● Youtube 동영상
+
+<style>
+  .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, 
+  .embed-container object, 
+  .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+<div class='embed-container'>
+  <iframe src='https://www.youtube.com/embed//WeyNIx5hOoU' frameborder='0' allowfullscreen></iframe>
+</div>
+
+### ● Git Hub Repository 링크
+
+<div class="ImgBox">
+  <a hrfe="https://github.com/Jjae-Jjae/AndroidProject_Damagochi" style=" text-align:center;">
+    <img src="/image/post/git/2021/2021-12-20-git-Hub-가입하기/Git-Hub-Logo.png" style="margin-bottom:10px;">
+    * Git Hub Repository *
+  </a>
+</div>
 
 
