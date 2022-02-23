@@ -1,5 +1,5 @@
 ---
-title: Android-2-1) Project_Android-다마고치
+title: Android-2-1) Personal Project-다마고치
 layout: single
 author_profile: true
 read_time: true
@@ -23,33 +23,11 @@ description: android
 meta_keywords: android
 ---
 <!-- {프로젝트 설명란} -->
+개인적으로 진행한 Android 프로젝트-Damagochi에 대하여 서술합니다.  
+코드는 맨 아래 태그되어있는 GIT Hub링크에 올라가 있으니 참고 바랍니다.  
 {: .notice--primary }
 
 ## 1. 프로잭트 개요  
-<!-- ## Application 유형 선정
-<table style="border-style:hidden; display: table;">
-  <colgroup>
-    <col style="width:25%;">
-    <col style="width:75%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <td>
-  <div markdown="1" class="ImgBox">
-  <br>
-  ![Android Icon](/image/post/android/2022/2022-1-30-2-android-Project-damagochi-1/Android_Logo.jpg)
-  *Android 로고*
-  </div>
-      </td>
-      <td style="font-size: 1.2em; line-height: 2em">      
-        Android Studio에 대하여 간략한 학습후 3일간 개인 Project 진행을 하였다.<br>
-        Project는 개인별 Application을 자유 주재로 개발하는 것이었다.<br><br>
-        스마트폰의 App의 강점중 하나인 즉각적인 상호작용에 관련된 작품제작 하고 싶었고<br>
-        이에 가장 다양한 상호 작용이 진행된다 생각하는 모바일 게임을 제작하기로 하였다.<br>
-      </td>
-    </tr>
-  </tbody>
-</table>   -->
 ### ● Application 종류 선정  
 Android Studio를 통하여 Project를 진행하였다.  
 <br>
