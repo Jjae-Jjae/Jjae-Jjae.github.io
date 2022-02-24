@@ -210,21 +210,56 @@ meta_keywords: JAVA Spring
 ## 2. 사용된 프레임 워크의 구조
 
 ### ● Spring MVC 구조
-![](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Framework_arki_1.jpg)
-### ● MyBatis3 구조
-![](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Framework_arki_2.jpg)
-![](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Framework_arki_3.jpg)
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_1.jpg)
+### ● MyBatis3 구조와 흐름도
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_2.jpg)
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_3.jpg)
 ### ● Apach Tiles 구조
-![](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Framework_arki_4.jpg)
-![](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Framework_arki_5.jpg)
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_4.jpg)
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_5.jpg)
 
 ## 3. 프로젝트 구성
 ### ● 사이트 맵
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_1.jpg)
 ### ● Tiles 레이아웃 구조
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_2.jpg)
 ### ● 프로젝트 폴더의 구조
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_3.jpg)
 ### ● DB 자료구조
+![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_4.jpg)
 ### ● DB 테이블 구성
-
+<details>
+  <summary>Member Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_5.jpg" >
+</details>
+<details>
+  <summary>Product Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_6.jpg" >
+</details>
+<details>
+  <summary>Product_order Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_7.jpg" >
+</details>
+<details>
+  <summary>Review Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_8.jpg" >
+</details>
+<details>
+  <summary>Review_image Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_9.jpg" >
+</details>
+<details>
+  <summary>Notice Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_10.jpg" >
+</details>
+<details>
+  <summary>QnA Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_11.jpg" >
+</details>
+<details>
+  <summary>FAQ Table 구성 보기</summary>
+  <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_12.jpg" >
+</details>
 ## 4. 화면별 설명
 ### ● 회원
 ### ● 상품
