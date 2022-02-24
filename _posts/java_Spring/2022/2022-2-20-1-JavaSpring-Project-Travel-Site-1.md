@@ -260,8 +260,10 @@ meta_keywords: JAVA Spring
   <summary>FAQ Table 구성 보기</summary>
   <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_12.jpg" >
 </details>
-## 4. 화면별 설명
+## 4. 화면별 구조 설명
 ### ● 회원
+<details>
+  <summary>회원화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_1.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_2.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_3.jpg" >
@@ -270,28 +272,53 @@ meta_keywords: JAVA Spring
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_6.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_7.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_8.jpg" >
+</details>
+
+
 ### ● 상품
+<details>
+  <summary>상품화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Product_1.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Product_2.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Product_3.jpg" >
+</details>
+
 ### ● 예약
+<details>
+  <summary>예약화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Book_1.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Book_2.jpg" >
+</details>
+
 ### ● 리뷰
+<details>
+  <summary>리뷰화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Review_1.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Review_2.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Review_3.jpg" >
+</details>
+
 ### ● 공지
+<details>
+  <summary>공지화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Notice_1.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Notice_2.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Notice_3.jpg" >
+</details>
+
 ### ● FAQ
+<details>
+  <summary>FAQ화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/FAQ_1.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/FAQ_2.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/FAQ_4.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/FAQ_5.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/FAQ_6.jpg" >
+</details>
+
 ### ● Q&A
+<details>
+  <summary>QnA화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_1.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_2.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_3.jpg" >
@@ -299,6 +326,8 @@ meta_keywords: JAVA Spring
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_6.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_7.jpg" >
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_8.jpg" >
+</details>
+
 
 ## 5. 프로젝투 후일담
 
