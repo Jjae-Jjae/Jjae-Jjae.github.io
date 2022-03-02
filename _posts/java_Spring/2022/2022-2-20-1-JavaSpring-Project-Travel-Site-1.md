@@ -260,8 +260,30 @@ meta_keywords: JAVA Spring
   <summary>FAQ Table 구성 보기</summary>
   <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_12.jpg" >
 </details>
-## 4. 화면별 구조 설명
+## 4. 화면별 설명
 ### ● 회원
+  회원 화면은 회원와 관련된 기능들을 모아놓은 페이지이다.  
+  크게 3가지 종류의 페이지로 구현되어있고 세부적인 기능은 아래와 같다.  
+  > 1. 회원 가입 페이지
+  > 2. 일반 회원 마이 페이지
+  > 3. 관리자 계정 관리 페이지
+  
+  1. 회원 가입 페이지  
+  > * 회원가입 유효성 체크
+  > * 중복 회원 판별
+  > * Post Code API (Daum API 사용)
+
+  2. 일반 회원 마이 페이지
+  > * 회원 정보 수정 기능
+  > * 회원 비밀번호 수정 기능
+  > * 회원 탈퇴 기능
+
+  3. 관리자 계정 관리 페이지
+  > * 일반 유저 관리 기능
+  > * 일반 유저 정보 기능
+  > * 유저 등급 설정 기능
+  
+
 <details>
   <summary>회원화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_1.jpg" >
@@ -276,6 +298,12 @@ meta_keywords: JAVA Spring
 
 
 ### ● 상품
+상품 화면은 상품을 회원에게 보여주고 소개하는 페이지이다.   
+계정별 기능이 조금 제한되어 있다. 관리자 계정일시에만 상품 등록이 들어나게 되어있다.  
+* 주요 기능
+  > 1. 새 상품 등록 기능
+  > 2. 전체 상품 조회 기능
+  > 3. 카테고리별 조회 기능
 <details>
   <summary>상품화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Product_1.jpg" >
@@ -348,4 +376,4 @@ meta_keywords: JAVA Spring
 <div markdown="1" class="ImgBox" >
   [![](/image/post/git/2021/2021-12-20-git-Hub-가입하기/Git-Hub-Logo.png)](https://github.com/Jjae-Jjae/JavaSpring_Project-TheTravel){: text-align:center;}
     * Git Hub Repository *
-</div>
+</div
