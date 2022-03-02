@@ -330,8 +330,23 @@ meta_keywords: JAVA Spring
 
 
 ## 5. 프로젝투 후일담
+  이번 프로젝트는 한달전 Spring을 배우기 전에 Java와 Servlet을 이용하여 만든 사이트를  
+  Java Spring으로 이식하며 업데이트와 보완을 진행한 프로젝트 였다.   
+  <br>
+  Java 프로젝트를 진행했을적엔 다들 처음으로 팀 프로젝트를 진행하다보니  
+  여러사람들이 규칙이나 룰등을 정하였음에도 이를 무시하고 자기 맘대로 진행하여  
+  최종 Merge가 정말 힘들었던 프로젝트였다  
+  (실제 프로젝트 진행후 2명이나 학원에서 퇴소 하였다 ^^;)   
+  <br>
+  하지만 이번 프로젝트에선 전작의 실책을 파악하여 사전에 프레임워크 제작하고   
+  (사용 기술 선정, 템플릿 제작, 폴더구조 설정등)  
+  사용방법들을 사전에 교육하여 원하는 방향으로 프로젝트를 진행해 나가기 위한 노력도 같이 진행하였다.  
+  이를 진행하며 프로젝트진행시 코딩과 기능만의 문제가 아닌  
+  서로간의 소통과 약속이 정말 중요한 점이란 것을 다시한번 체감할수 있었다.  
 
+## 6. 프로젝트 Git Hub
 
-
-## 6. 프로젝트 시연
-
+<div markdown="1" class="ImgBox" >
+  [![](/image/post/git/2021/2021-12-20-git-Hub-가입하기/Git-Hub-Logo.png)](https://github.com/Jjae-Jjae/JavaSpring_Project-TheTravel){: text-align:center;}
+    * Git Hub Repository *
+</div>

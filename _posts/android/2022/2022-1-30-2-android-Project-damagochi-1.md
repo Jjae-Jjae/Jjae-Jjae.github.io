@@ -352,11 +352,9 @@ Android Studio를 통하여 Project를 진행하였다.
 
 ### ● Git Hub Repository 링크
 
-<div class="ImgBox">
-  <a hrfe="https://github.com/Jjae-Jjae/AndroidProject_Damagochi" style=" text-align:center;">
-    <img src="/image/post/git/2021/2021-12-20-git-Hub-가입하기/Git-Hub-Logo.png" style="margin-bottom:10px;">
-    * Git Hub Repository *
-  </a>
-</div>
 
+<div markdown="1" class="ImgBox" >
+  [![](/image/post/git/2021/2021-12-20-git-Hub-가입하기/Git-Hub-Logo.png)](https://github.com/Jjae-Jjae/AndroidProject_Damagochi){: text-align:center;}
+    * Git Hub Repository *
+</div>
 
