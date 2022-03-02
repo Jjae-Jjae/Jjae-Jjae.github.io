@@ -328,7 +328,6 @@ meta_keywords: JAVA Spring
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_8.jpg" >
 </details>
 
-
 ## 5. 프로젝투 후일담
   이번 프로젝트는 한달전 Spring을 배우기 전에 Java와 Servlet을 이용하여 만든 사이트를  
   Java Spring으로 이식하며 업데이트와 보완을 진행한 프로젝트 였다.   
