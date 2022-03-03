@@ -283,7 +283,6 @@ meta_keywords: JAVA Spring
   > * 일반 유저 정보 기능
   > * 유저 등급 설정 기능
   
-
 <details>
   <summary>회원화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Member_1.jpg" >
@@ -312,6 +311,14 @@ meta_keywords: JAVA Spring
 </details>
 
 ### ● 예약
+  예약 화면은 상품 페이지에 있는 상품들중 원하는 제품을 선택하여 예약등록 하는 페이지 이다.  
+  로그인여부를 확인하여 로그인 되어있을때만 기동하며 예약에 관련된 기능들을 전반적으로 관리할수 있다.
+  > 1. 로그인 확인 기능
+  > 2. 예약 조회 기능
+  > 3. 예약 취소 기능
+  > 4. 예약 상품 검색 기능
+  > 5. 예약 상품 관련 페이지 접근 기능
+  
 <details>
   <summary>예약화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Book_1.jpg" >
@@ -319,6 +326,14 @@ meta_keywords: JAVA Spring
 </details>
 
 ### ● 리뷰
+  리뷰 화면은 작성된 리뷰들을 보여주고 예약된상품에 리뷰를 작성하는 페이지이다.
+  기본적인 레이아웃은 포토 리뷰이며 별점, 사진, 내용등으로 구성되어있다.
+  > 1. 리뷰 작성 기능
+  > 2. 리뷰 수정, 삭제 기능
+  > 3. 리뷰 작성 여부 확인 기능
+  > 4. 상품별 리뷰 모아보기 기능
+  > 5. 멀티사진 업로드 기능
+
 <details>
   <summary>리뷰화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Review_1.jpg" >
