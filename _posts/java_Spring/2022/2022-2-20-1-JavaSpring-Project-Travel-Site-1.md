@@ -403,9 +403,69 @@ meta_keywords: JAVA Spring
   이를 진행하며 프로젝트진행시 코딩과 기능만의 문제가 아닌  
   서로간의 소통과 약속이 정말 중요한 점이란 것을 다시한번 체감할수 있었다.  
 
-## 6. 프로젝트 Git Hub
+## 6. 동작 시연
+
+### ● Youtube 동영상
+
+<style>
+  .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
+  .embed-container iframe, 
+  .embed-container object, 
+  .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
+<style>
+  .embed-container-half { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 50%; }
+  .embed-container-half iframe, 
+  .embed-container-half object, 
+  .embed-container-half embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+<table style="border-style:hidden; display: table;">
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <div class='embed-container'>
+          <iframe src='https://www.youtube.com/embed//m-_tUUlx4-o' frameborder='0' allowfullscreen></iframe>
+        </div>
+      </td>
+      <td>
+        <div class='embed-container'>
+          <iframe src='https://www.youtube.com/embed//fgojjW_dt5I' frameborder='0' allowfullscreen></iframe>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class='embed-container'>
+          <iframe src='https://www.youtube.com/embed//lDtWDL-aOBY' frameborder='0' allowfullscreen></iframe>
+        </div>
+      </td>
+      <td>
+        <div class='embed-container'>
+          <iframe src='https://www.youtube.com/embed//kE6J7yGfDTo' frameborder='0' allowfullscreen></iframe>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center">
+        <div style="display:inline-block; width:50%">
+          <div class='embed-container'>
+            <iframe src='https://www.youtube.com/embed//XXmlTHWp5fk' frameborder='0' allowfullscreen></iframe>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>  
+
+### ● Git Hub Repository 링크
 
 <div markdown="1" class="ImgBox" >
   [![](/image/post/git/2021/2021-12-20-git-Hub-가입하기/Git-Hub-Logo.png)](https://github.com/Jjae-Jjae/JavaSpring_Project-TheTravel){: text-align:center;}
     * Git Hub Repository *
-</div
+</div>
+
