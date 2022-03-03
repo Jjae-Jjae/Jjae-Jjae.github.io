@@ -300,9 +300,10 @@ meta_keywords: JAVA Spring
 상품 화면은 상품을 회원에게 보여주고 소개하는 페이지이다.   
 계정별 기능이 조금 제한되어 있다. 관리자 계정일시에만 상품 등록이 들어나게 되어있다.  
 * 주요 기능
-  > 1. 새 상품 등록 기능
-  > 2. 전체 상품 조회 기능
-  > 3. 카테고리별 조회 기능
+  > 1. 관리자 계정 식별 기능  
+  > 2. 새 상품 등록 기능
+  > 3. 전체 상품 조회 기능
+  > 4. 카테고리별 조회 기능
 <details>
   <summary>상품화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Product_1.jpg" >
@@ -332,7 +333,6 @@ meta_keywords: JAVA Spring
   > 2. 리뷰 수정, 삭제 기능
   > 3. 리뷰 작성 여부 확인 기능
   > 4. 상품별 리뷰 모아보기 기능
-  > 5. 멀티사진 업로드 기능
 
 <details>
   <summary>리뷰화면 구조 보기</summary>
@@ -342,6 +342,11 @@ meta_keywords: JAVA Spring
 </details>
 
 ### ● 공지
+  공지 화면은 사이트의 중요사항들을 담은 내용을 기제하는 페이지이다.  
+  기본적인 게시판의 형태를 띄우고 있으며 관리자만이 작성 가능하다.  
+  > 1. 관리자 계정 식별 기능  
+  > 2. 공지사항 검색 기능
+  > 3. 분류별 공지사항 검색 기능
 <details>
   <summary>공지화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Notice_1.jpg" >
@@ -350,6 +355,12 @@ meta_keywords: JAVA Spring
 </details>
 
 ### ● FAQ
+  FAQ 화면은 사이트에서 자주 올라오는 QnA를 모아둔 게시판이다.  
+  공지 화면돠 마찬가지의 형태를 띄우고 있으며 관리자만이 작성 가능하다.  
+  > 1. 관리자 계정 식별 기능  
+  > 2. FAQ 검색 기능
+  > 3. 분류별 공지사항 검색 기능
+  > 4. 테마별 공지사항 표시 기능
 <details>
   <summary>FAQ화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/FAQ_1.jpg" >
@@ -360,6 +371,12 @@ meta_keywords: JAVA Spring
 </details>
 
 ### ● Q&A
+  QnA 화면은 회원들의 문의사항을 접수하는 화면이다.
+  게시판에는 답글 기능이 있고 이를 통하여 관리자만이 답변을 달 수 있다.
+  > 1. 관리자 계정 식별 기능  
+  > 2. QnA 검색 기능
+  > 3. 답글 쓰기 기능  
+
 <details>
   <summary>QnA화면 구조 보기</summary>
 <img src="/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/QnA_1.jpg" >
