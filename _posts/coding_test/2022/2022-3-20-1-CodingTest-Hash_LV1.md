@@ -7,7 +7,7 @@ comments: true
 share: true 
 related: true 
 popular: true
-categories: Coding Test
+categories: CodingTest
 tags: [Java, hash, coding test]
 
 date: 2022-3-19T13:30:00-09:00 
