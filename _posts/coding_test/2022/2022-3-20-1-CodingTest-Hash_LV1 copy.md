@@ -118,7 +118,7 @@ hash function줄여서 hash란 n의 길이를 갖는 데이터를 고정된 길�
 
 각각의 자료구조는 아래와같은 기능을 제공한다. 
 1. hash table (hash map) - 특정 값에 해당하는 정보를 저장가능
-2. hash set - 중복되지 않는 명단을 작성가능
+2. hash set - 중복되지 않는 명단을 작성가능(중복 여부 판단 가능)
 3. bloom filter - 집합에 존재하지 않는값을 대략적으로 파악가능(단독사용이 힘듬)
 
 bloom filter는 데이터가 많아질수록 확률적으로 false positive를 도출할수 있기 때문에 단독으로 사용이 힘들다.
