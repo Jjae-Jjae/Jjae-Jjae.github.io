@@ -211,10 +211,10 @@ meta_keywords: JAVA Spring
 
 ### ● Spring MVC 구조
 ![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_1.jpg)
-### ● MyBatis3 구조와 흐름도
+### ● Apach Tiles 구조
 ![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_2.jpg)
 ![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_3.jpg)
-### ● Apach Tiles 구조
+### ● MyBatis3 구조와 흐름도
 ![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_4.jpg)
 ![Framework_arki](/image/post/java_Spring/2022/2022-2-20-1-JavaSpring-Project-Travel-Site-1/Site_arki_5.jpg)
 
