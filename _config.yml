@@ -125,7 +125,7 @@ author:
       url: "https://github.com/Jjae-Jjae"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jaeweon4100/"
+      # url: "https://www.instagram.com/jaeweon4100/"
 
 # Site Footer
 footer:
